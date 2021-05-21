@@ -1,4 +1,4 @@
-class Solution {
+Reverse Integer Reverse Integer class Solution {
 public:
     int numJewelsInStones(string J, string S) 
     {
