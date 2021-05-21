@@ -4,7 +4,8 @@ This is a guide to craking coding interviews in big Companies
 
 Table of Contents
 =================
-
+   * [Topics to Study](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/Topics%20to%20Study)
+      * [Linked List](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/Topics%20to%20Study/Linked%20List)
    * [Online Judges for Practice](#important-information)
       * [Leetcode](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/Leetcode)
          * [Problems Classified by Difficulty](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/Leetcode/Problems%20Classified%20By%20Difficulty)
