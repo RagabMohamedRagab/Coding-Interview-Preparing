@@ -14,7 +14,7 @@ Table of Contents
             * [Hard Problems Solutions](#configuring-other-emails)
          * [Problems Classified by Topic](#other-emails)
             * [Array](#other-emails)
-            * [Hashtable](#configuring-other-emails)
+            * [Hashtable](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/Leetcode/Problems%20Classified%20By%20Topics/Hashtable)
             * [Linked list](#configuring-other-emails)
             * [Stack](#configuring-other-emails)
             * [Heap](#configuring-other-emails)
