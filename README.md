@@ -52,7 +52,7 @@ Table of Contents
             * [Uper](#configuring-other)
             * [Yahoo](#configuring-other-emails)
             * [Zenefit](#configuring-other-emails)
-   * [Books](#setting-it-up)
+   * [Books](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/books)
       * [Algorithms and Datastructures](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/books/algorithms%20and%20datastructures)
       * [Software Engineering](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/books/Software%20Engineering)
    * [Algorithms and Datastructures Implementations](#setting-it-up)
