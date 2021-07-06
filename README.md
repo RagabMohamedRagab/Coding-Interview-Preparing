@@ -22,6 +22,7 @@ Table of Contents
             * [Tree](#configuring-other-emails)
             * [Binary Indexed Tree](#configuring-other-emails)
             * [Binary Search Tree](#configuring-other-emails)
+            * [Binary Search](#configuring-other-emails)
             * [Segment Tree](#configuring-other-emails)
             * [Math](#other-emails)
             * [Two Pointers](#configuring-other-emails)
