@@ -59,5 +59,5 @@ Table of Contents
    * [Algorithms and Datastructures Implementations](#setting-it-up)
       * [C++](#email)
       * [Java](#configuring-the-source-email)
- --
+ ---
 Thanks
